@@ -1,5 +1,5 @@
 
-module RoboJulia
+module MechaJulia
 import Requests
 import JSON
 
