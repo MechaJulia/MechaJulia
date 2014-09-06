@@ -1,3 +1,3 @@
-include("../src/RoboJulia.jl")
+include("../src/MechaJulia.jl")
 
-RoboJulia.check_pr_ok()
+MechaJulia.check_pr_ok()
